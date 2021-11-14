@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-golpore-dev-01610-authRole",
+      "UnauthRoleArn": "arn:aws:iam::536310590929:role/amplify-golpore-dev-01610-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::536310590929:role/amplify-golpore-dev-01610-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-golpore-dev-01610-deployment",
+      "UnauthRoleName": "amplify-golpore-dev-01610-unauthRole",
+      "StackName": "amplify-golpore-dev-01610",
+      "StackId": "arn:aws:cloudformation:ap-south-1:536310590929:stack/amplify-golpore-dev-01610/f85d14f0-4576-11ec-8cbf-0ac017081d28",
+      "AmplifyAppId": "d3tw40p3n1l6xm"
+    }
+  }
+}
